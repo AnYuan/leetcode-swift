@@ -591,88 +591,25 @@ If you have a better soluton or find an error, please feel free to open a PR. Th
 
 ## Other Swift Algorithms Repo
 
-* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club): Algorithms and data structures in Swift, with explanations!
-* [SwiftGraph](https://github.com/davecom/SwiftGraph)
-* [Swift Algorithms Classroom](https://github.com/gmertk/SwiftAlgorithmsClassroom)
-* [Swift Sorts](https://github.com/jessesquires/swift-sorts)
-* [Swift Data Structures and Algorithms](https://github.com/stupidfive/SwiftDataStructuresAndAlgorithms)
 * [BTree](https://github.com/lorentey/BTree): Fast ordered collections for Swift using in-memory B-trees
 * [JXSort](https://github.com/JiongXing/JXSort)
 * [stanfordacm](https://github.com/jaehyunp/stanfordacm): Stanford ACM-ICPC related materials
-* [Google Interview University](https://github.com/jwasham/google-interview-university)
 * [Top 20 dynamic programming interview questions](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
 * [Majority Voting Algorithm](https://gregable.com/2013/10/majority-vote-algorithm-find-majority.html)
-* [Algorithms-and-Coding-Interviews](https://github.com/liyin2015/Algorithms-and-Coding-Interviews): Open source content from a book in progress, Hands-on Algorithmic Problem Solving
 
-## Leetcode
-
-* [LeetCode 101](https://github.com/changgyhub/leetcode_101)
-* [LeetCode](https://github.com/lzl124631x/LeetCode)
-* [Leetcode](https://github.com/Cee/Leetcode)
-* [LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift): Solutions to LeetCode by Swift
-* [左耳朵耗子的leetcode](https://github.com/haoel/leetcode)
-* [Grandyang](https://www.cnblogs.com/grandyang/p/4606334.html): leetcode题目解析
-* [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
-* [leetcode](https://github.com/azl397985856/leetcode): LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
-* [leetcode](https://github.com/strengthen/LeetCode)
 
 ## Posts
 
 * [monotonous stack](https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step)
 * [A summary: how to use bit manipulation to solve problems easily and efficiently](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently)
 
-## Blogs
-
-* [Preparing for your Software Engineering Interview at Facebook
-](https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook/)
-* [Know Thy Complexities!](http://bigocheatsheet.com/)
-
-* [Computing optimal road trips on a limited budget](http://www.randalolson.com/2016/06/05/computing-optimal-road-trips-on-a-limited-budget)
-
-* [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
-
-* [Get that job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920)
-
-* [big o cheat sheet](http://bigocheatsheet.com/)
-
-* [facebook interviews](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af)
-
-* [50+ Data Structure and Algorithms Interview Question for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
-
-* [BTree](https://github.com/attaswift/BTree): Fast sorted collections for Swift using in-memory B-trees
-
-* [Origin of Quake3's Fast InvSqrt()](https://www.beyond3d.com/content/articles/8/)
-
-* [Swift Bitwise Operators](https://docs.swift.org/swift-book/LanguageGuide/AdvancedOperators.html)
-
-* [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
-
-* [the coding interview](https://github.com/mre/the-coding-interview): Programming exercises, code katas and puzzles for your job interview training - or just for fun.
-
-* [pramp](https://www.pramp.com/): mock interview
-
-* [剑指Offer源码](https://github.com/zhedahht/CodingInterviewChinese2)
-
-* [interview internal reference](https://github.com/0voice/interview_internal_reference): 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-
-* [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection): iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。
-
-* [resume](https://github.com/sb2nov/resume): Software developer resume in Latex [link](http://sourabhbajaj.com)
-
-* [interviews](https://github.com/kdn251/interviews): Everything you need to know to get the job.
 
 ## Courses
 
 * [Skiena's Algorithms Lectures](http://www3.cs.stonybrook.edu/~algorith/video-lectures/)
-
-* [数据结构与算法之美](https://github.com/wangzheng0822/algo):Data Structure & Algorithm
 
 * [MIT Introduction to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/)
 
 * [MIT Design and Analysis of Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
 
 * [Stanford Algorithms](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/info)
-
-* [Planet](https://github.com/xiexiexx/Planet): 算法时空课程代码
-
-* [高频算法面试精讲](https://github.com/chlxydl/Algorithm_Class_Problem_Sample_Code)
