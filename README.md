@@ -1,6 +1,6 @@
 # My Leetcode Solutions
 
-If you have a better soluton or find an error, please feel free to open a PR. Thanks.
+If you have a better soluton or find an error, feel free to open a PR. Thanks.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
