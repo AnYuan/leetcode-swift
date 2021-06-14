@@ -7,10 +7,10 @@
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Swift](./algorithms/swift/binaryTreeInorderTraversal/binaryTreeInorderTraversal.swift)| Medium |
 |**95**|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Swift](./algorithms/swift/uniqueBinarySearchTrees-II/uniqueBinarySearchTrees-II.swift)| Medium |
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Swift](./algorithms/swift/96-Unique-Binary-Search-Trees/96-Unique-Binary-Search-Trees.swift)| Medium |
-|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Swift](./algorithms/swift/98-Validate-Binary-Serch-Tree/98-Validate-Binary-Serch-Tree.swift), [Python](./algorithms/python/validateBinarySearchTree/validateBinarySearchTree.py) |Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Swift](./algorithms/swift/98-Validate-Binary-Serch-Tree/98-Validate-Binary-Serch-Tree.swift) |Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [Swift](./algorithms/swift/sameTree/sameTree.swift) |Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Swift](./algorithms/swift/symmetricTree/symmetricTree.swift) |Easy|
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Swift](./algorithms/swift/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.swift), [Python](./algorithms/python/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.py), [Python](./algorithms/python/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversalII.py)|Medium|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Swift](./algorithms/swift/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.swift)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Swift](./algorithms/swift/binaryTreeZigZagLevelOrderTraversal/binaryTreeZigZagLevelOrderTraversal.swift)| Medium |
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Swift](./algorithms/swift/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.swift)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Swift](./algorithms/swift/constructBinaryTreeFromPreorderAndInorderTraversal/constructBinaryTreeFromPreorderAndInorderTraversal.swift)|Medium|
@@ -21,7 +21,6 @@
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Swift](./algorithms/swift/minimumDepthOfBinaryTree/minimumDepthOfBinaryTree.swift)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Swift](./algorithms/swift/pathSum/pathSum.swift)|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Swift](./algorithms/swift/pathSum-II/pathSum-II.swift)|Medium|
-|**114**|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Swift](./algorithms/java/populatingNextRightPointersInEachNode/populatingNextRightPointersInEachNode.java)|Medium|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Swift](./algorithms/swift/pathSum-II/pathSum-II.swift)|Medium|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Swift](./algorithms/swift/117-Populating-Next-Right-Pointers-in-Each-Node-II/117-Populating-Next-Right-Pointers-in-Each-Node-II.swift)|Medium|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Swift](./algorithms/swift/124-Binary-Tree-Maximum-Path-Sum/124-Binary-Tree-Maximum-Path-Sum.swift)|Hard|
@@ -34,20 +33,19 @@
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Swift](./algorithms/swift/222-Count-Complete-Tree-Nodes/222-Count-Complete-Tree-Nodes.swift)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Swift](./algorithms/swift/226-Invert-Binary-Tree/226-Invert-Binary-Tree.swift)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Swift](./algorithms/swift/230-Kth-Smallest-Element-in-a-BST/230-Kth-Smallest-Element-in-a-BST.swift)|Medium|
-|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Swift](./algorithms/swift/lowestCommonAncestorOfABinarySearchTree/lowestCommonAncestorOfABinarySearchTree.swift), [Java](./algorithms/java/lowestCommonAncestorOfABinarySearchTree/lowestCommonAncestorOfABinarySearchTree.java)|Easy|
-|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Swift](./algorithms/swift/lowestCommonAncestorOfABinaryTree/lowestCommonAncestorOfABinaryTree.swift), [Java](./algorithms/java/lowestCommonAncestorOfABinaryTree/lowestCommonAncestorOfABinaryTree.java)|Medium|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Swift](./algorithms/swift/lowestCommonAncestorOfABinarySearchTree/lowestCommonAncestorOfABinarySearchTree.swift)|Easy|
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Swift](./algorithms/swift/lowestCommonAncestorOfABinaryTree/lowestCommonAncestorOfABinaryTree.swift)|Medium|
 |**250**|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | [Swift](./algorithms/swift/productOfArrayExceptSelf/productOfArrayExceptSelf.swift) |Medium|
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) | [Swift](./algorithms/swift/verifyPreorderSequenceInBinarySearchTree/verifyPreorderSequenceInBinarySearchTree.swift)| Medium |
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Swift](./algorithms/swift/binaryTreePaths/binaryTreePaths.swift)|Easy|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Swift](./algorithms/swift/closestBinarySearchTreeValue/closestBinarySearchTreeValue.swift)|Easy|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | [Swift](./algorithms/swift/285-Inorder-Successor-in-BST/285-Inorder-Successor-in-BST.swift)| Medium |
-|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Swift](./algorithms/swift/297-Serialize-and-Deserialize-Binary-Tree/297-Serialize-and-Deserialize-Binary-Tree.swift), [C++](./algorithms/cpp/297-Serialize-and-Deserialize-Binary-Tree/297-Serialize-and-Deserialize-Binary-Tree.cpp)| Medium |
+|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Swift](./algorithms/swift/297-Serialize-and-Deserialize-Binary-Tree/297-Serialize-and-Deserialize-Binary-Tree.swift)| Medium |
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | [Swift](./algorithms/swift/binaryTreeLongestConsecutiveSequence/binaryTreeLongestConsecutiveSequence.swift)| Medium |
 |333|[Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/) | [Swift](./algorithms/swift/333-Largest-BST-Subtree/333-Largest-BST-Subtree.swift)|Medium|
 |**337**|[House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Swift](./algorithms/swift/countingBits/countingBits.swift)|Medium|
 |366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) | [Swift](./algorithms/swift/findLeavesOfBinaryTree/findLeavesOfBinaryTree.swift)|Medium|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Swift](./algorithms/swift/sumOfLeftLeaves/sumOfLeftLeaves.swift)|Easy|
-|426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [Java](./algorithms/java/convertBinarySearchTreeToSortedDoublyLinkedList/convertBinarySearchTreeToSortedDoublyLinkedList.java)|Medium|
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Swift](./algorithms/swift/429-N-ary-Tree-Level-Order-Traversal/429-N-ary-Tree-Level-Order-Traversal.swift)| Medium |
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)| [Swift](./algorithms/swift/pathSum-III/pathSum-III.swift)|Easy|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Swift](./algorithms/swift/449-Serialize-and-Deserialize-BST/449-Serialize-and-Deserialize-BST.swift)|Medium|
@@ -74,7 +72,7 @@
 |**652**|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)| [Swift](./algorithms/swift/findDuplicateSubtrees/findDuplicateSubtrees.swift)| Medium |
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)| [Swift](./algorithms/swift/twoSumIV/twoSumIV.swift)|Easy|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)| [Swift](./algorithms/swift/maximumBinaryTree/maximumBinaryTree.swift)| Medium |
-|**655**|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/)| [Swift](./algorithms/swift/655-Print-Binary-Tree/655-Print-Binary-Tree.swift), [Python](./algorithms/python/655-Print-Binary-Tree/655-Print-Binary-Tree.py)| Medium |
+|**655**|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/)| [Swift](./algorithms/swift/655-Print-Binary-Tree/655-Print-Binary-Tree.swift)| Medium |
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)| [Swift](./algorithms/swift/662-Maximum-Width-of-Binary-Tree/662-Maximum-Width-of-Binary-Tree.swift)| Medium |
 |663|[Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition/)| [Swift](./algorithms/swift/663-Equal-Tree-Partition/663-Equal-Tree-Partition.swift)| Medium |
 |666|[Path Sum IV](https://leetcode.com/problems/path-sum-iv/)| [Swift](./algorithms/swift/666-Path-Sum-IV/666-Path-Sum-IV.swift)| Medium |
@@ -85,10 +83,9 @@
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Swift](./algorithms/swift/700-Search-in-a-Binary-Search-Tree/700-Search-in-a-Binary-Search-Tree.swift)|Easy|
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Swift](./algorithms/swift/insertIntoABinarySearchTree/insertIntoABinarySearchTree.swift)|Medium|
 |742|[Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) | [Swift](./algorithms/swift/742-Closest-Leaf-In-A-Binary-Tree/742-Closest-Leaf-In-A-Binary-Tree.swift)|Medium|
-|**776**|[Split BST](https://leetcode.com/problems/split-bst/) | [Swift](./algorithms/swift/776-Split-BST/776-Split-BST.swift), [Python](./algorithms/python/776-Split-BST/776-Split-BST.py)|Medium|
+|**776**|[Split BST](https://leetcode.com/problems/split-bst/) | [Swift](./algorithms/swift/776-Split-BST/776-Split-BST.swift)|Medium|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [Swift](./algorithms/swift/783-Minimum-Distance-Between-BST-Nodes/783-Minimum-Distance-Between-BST-Node.swift)|Easy|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [Swift](./algorithms/swift/binaryTreePruning/binaryTreePruning.swift)|Medium|
-|863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [C++](./algorithms/cpp/allNodesDistanceKInBinaryTree/allNodesDistanceKInBinaryTree.cpp)|Medium|
 |865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Swift](./algorithms/swift/smallestSubtreeWithAllTheDeepestNodes/smallestSubtreeWithAllTheDeepestNodes.swift )|Medium|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Swift](./algorithms/swift/leafSimilarTrees/leafSimilarTrees.swift)|Easy|
 |889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Swift](./algorithms/swift/constructBinaryTreeFromPreorderAndPostorderTraversal/constructBinaryTreeFromPreorderAndPostorderTraversal.swift)| Medium |

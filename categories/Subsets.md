@@ -4,7 +4,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Swift](../algorithms/swift/generateParentheses/generateParentheses.swift), [Python](../algorithms/python/generateParentheses/generateParentheses.py)|Medium|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Swift](../algorithms/swift/generateParentheses/generateParentheses.swift)|Medium|
 |**46**|[Permutations](https://leetcode.com/problems/permutations/) | [Swift](../algorithms/swift/permutations/permutations.swift)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/) | [Swift](../algorithms/swift/subsets/subsets.swift)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/) | [Swift](./../algorithms/swift/subsets-II/subsets-II.swift)| Medium |

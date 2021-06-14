@@ -7,27 +7,26 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](./algorithms/swift/2Sum/2Sum.swift)|Easy|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Swift](../algorithms/swift/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.swift)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Swift](../algorithms/swift/addTwoNumbers/addTwoNumbers.swift)|Medium|
-|15|[3Sum](https://leetcode.com/problems/3sum/) | [Swift](../algorithms/swift/3Sum/3Sum.swift), [Python](../algorithms/python/3Sum/3Sum.py), [Python](../algorithms/python/3Sum/3SumII.py)|Medium|
+|15|[3Sum](https://leetcode.com/problems/3sum/) | [Swift](../algorithms/swift/3Sum/3Sum.swift)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Swift](../algorithms/swift/3sumClosest/3sumClosest.swift)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/) | [Swift](../algorithms/swift/4sum/4sum.swift)|Medium|
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](../algorithms/java/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.java), [Swift](../algorithms/swift/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.swift)|Medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Swift](../algorithms/swift/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.swift)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Swift](../algorithms/swift/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray.swift)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Swift](../algorithms/swift/removeElement/removeElement.swift)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Swift](../algorithms/swift/implementStrStr/implementStrStr().swift)|Easy|
 |**42**|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Swift](../algorithms/swift/trappingRainWater/trappingRainWater.swift)|Hard|
-|61|[Rotate List](https://leetcode.com/problems/rotate-list/) | [Java](../algorithms/java/rotateList/rotateList.java)|Medium|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/) | [Swift](../algorithms/swift/sortColors/sortColors.swift)|Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Swift](../algorithms/swift/minimumWindowSubString/minimumWindowSubString.swift)|Hard|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Swift](../algorithms/swift/removeDuplicatesFromSortedArray-II/removeDuplicatesFromSortedArray-II.swift)|Medium|
 |86|[Partition List](https://leetcode.com/problems/partition-list/) | [Swift](../algorithms/swift/partitionList/partitionList.swift)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Swift](../algorithms/swift/mergeSortedArray/mergeSortedArray.swift)| Easy |
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Swift](./algorithms/swift/validPalindrome/validPalindrome.swift)|Easy|
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](../algorithms/java/linkedListCycle/linkedListCycle.java), [Swift](../algorithms/swift/linkedListCycle/linkedListCycle.swift)|Easy|
-|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](../algorithms/java/linkedListCycleII/linkedListCycleII.java), [Swift](../algorithms/swift/linkedListCycleII/linkedListCycleII.swift)|Medium|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |[Swift](../algorithms/swift/linkedListCycle/linkedListCycle.swift)|Easy|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Swift](../algorithms/swift/linkedListCycleII/linkedListCycleII.swift)|Medium|
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [Swift](./algorithms/swift/159-Longest-Substring-with-At-Most-Two-Distinct-Characters/159-Longest-Substring-with-At-Most-Two-Distinct-Characters.swift)| Medium |
 |167|[Two Sum II - input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Swift](../algorithms/swift/2SumII/2SumII.swift)|Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Swift](../algorithms/swift/minimumSizeSubarraySum/minimumSizeSubarraySum.swift)|Medium|
-|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Java](../algorithms/java/palindromeLinkedList/palindromeLinkedList.java), [Swift](../algorithms/swift/palindromeLinkedList/palindromeLinkedList.swift)|Easy|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Swift](../algorithms/swift/palindromeLinkedList/palindromeLinkedList.swift)|Easy|
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | [Swift](./algorithms/swift/259-3Sum-Smaller/259-3Sum-Smaller.swift)| Medium |
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Swift](../algorithms/swift/moveZeroes/moveZeroes.swift)|Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Swift](../algorithms/swift/findTheDuplicateNumber/findTheDuplicateNumber.swift)| Medium |
