@@ -1,5 +1,7 @@
 # My Leetcode Solutions
 
+If you have a better soluton or find an error, please feel free to open a PR. Thanks.
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](./algorithms/swift/2Sum/2Sum.swift)|Easy|
